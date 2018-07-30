@@ -4,5 +4,5 @@ class Amazon_calculator
       total = 0 
       
       @total = total 
-      
+      items = []
     end 
